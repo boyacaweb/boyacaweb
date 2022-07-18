@@ -1,0 +1,19 @@
+.heaven
+{
+  position:absolute;
+  z-index: -1;
+}
+.heaven2
+{
+  position:absolute;
+  z-index: -2;
+}
+.eye{
+    position:absolute;
+    z-index: 0;
+  }
+.backcurve{
+    position: relative; 
+    left: 0; 
+    top: 0;
+  }	
